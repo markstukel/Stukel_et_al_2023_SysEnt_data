@@ -29,7 +29,7 @@ The `buckley_et_al_reanalysis_from_genbank` folder contains the alignment used f
 #### Trees
 `trees` folders contain the tree files and corresponding log files for all of our analyses.
 
-`nuclear_concat`, `nuclear_astral`, and `nuclear_svdq` folders correspond to the concantenated ML, ASTRAL, and SVDQuartets trees and their analysis log files respectively.
+`nuclear_concat`, `nuclear_astral`, and `nuclear_svdq` folders correspond to the concantenated ML, ASTRAL, and SVDQuartets trees and their analysis log files respectively. The `nuclear_astral` folders also contain the IQ-Tree gene trees used to build the ASTRAL trees.
 
 `mtdna` folders contain the mitochondrial genome trees as well as the individual mitochondrial gene trees.
 
